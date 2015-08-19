@@ -16,9 +16,7 @@ var testApp = {
 			'contentClass':'.is-tabs-tab',
 			'navLinkClass':'.is-tabs-link'
 		};
-
 		var tabsConfig = $.extend({}, defaultConfig, inputConfig);
-
 		var tabsInit = function($thisTabs){
 
 			var debouncer = false;
