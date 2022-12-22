@@ -1,7 +1,0 @@
-# this files list will be ignored by GIT
-##########################################
-.sass-cache/
-.sass-cache/*
-**/.sass-cache/
-**/.sass-cache/*
-**/.sass-cache/**
