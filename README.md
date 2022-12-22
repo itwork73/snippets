@@ -1,2 +1,1 @@
-###### BitrixGeoIPHard.php
-Определение города\региона через базу SyphexGeo
+BitrixGeoIPHard.php - определение города\региона через базу SyphexGeo
